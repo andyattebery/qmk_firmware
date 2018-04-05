@@ -17,6 +17,7 @@ tags
 *~
 build/
 .build/
+obj/
 *.bak
 .vagrant/
 quantum/version.h
